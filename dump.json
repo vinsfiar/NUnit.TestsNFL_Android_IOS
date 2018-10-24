@@ -1,0 +1,39 @@
+{
+"methodArgs":
+[
+	"DOWN",
+	0,
+	2000,
+	"NATIVE",
+	"xpath\u003d//*[@text\u003d\u0027Redskins\u0027]",
+	0,
+	1000,
+	5,
+	false
+],
+"logLine":"Swipe to find xpath\u003d//*[@text\u003d\u0027Redskins\u0027]",
+"bcolor":-2147483648,
+"clientID":"clientID:jsonwp:version\u003d1.00:ff1b2437-4996-4351-9018-6afb77f9c0e9",
+"color":-2147483648,
+"font.size":-1,
+"WinTitle":"adb:ALE-L21",
+"product.version":"11.8.84",
+"methodName":"swipeWhileNotFound",
+"click":"272,3688",
+"bcolor.name":"UNKNOWN",
+"found":true,
+"port":"N/A",
+"report":true,
+"width":156,
+"startTime":"Oct 8, 2018 4:58:14 PM",
+"time":1167,
+"endTime":"Oct 8, 2018 4:58:15 PM",
+"text":"Found: true",
+"position":"194,6167",
+"scenarioIndex":0,
+"status":true,
+"color.name":"UNKNOWN",
+"height":-4959
+}
+
+]
